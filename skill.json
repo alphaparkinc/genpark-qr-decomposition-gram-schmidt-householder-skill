@@ -1,0 +1,9 @@
+{
+  "name": "genpark-qr-decomposition-gram-schmidt-householder-skill",
+  "version": "1.0.0",
+  "description": "QR matrix factorization via Gram-Schmidt orthogonalization for least-squares regression",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
