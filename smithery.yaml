@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-qr-decomposition-gram-schmidt-householder-skill
+service:
+  name: genpark-qr-decomposition-gram-schmidt-householder-skill
+  command: python
+  args:
+    - mcp_server.py
